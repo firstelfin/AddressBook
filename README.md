@@ -16,9 +16,9 @@
 
 *   <a href="https://github.com/firstelfin/AddressBook/blob/master/README.md#1%E5%88%9B%E5%BB%BA%E9%A6%96%E9%A1%B5"><b>1、创建首页</b></a>
 
-*   **[2、创建person结构体、address结构体](#2、创建person结构体、address结构体)**
+*   <a href="https://github.com/firstelfin/AddressBook/blob/master/README.md#2%E5%88%9B%E5%BB%BAperson%E7%BB%93%E6%9E%84%E4%BD%93address%E7%BB%93%E6%9E%84%E4%BD%93"><b>2、创建person结构体、address结构体</b></a>
 
-*   **[3、创建Home页面的选择函数](#3、创建Home页面的选择函数)**
+*   <a href="https://github.com/firstelfin/AddressBook/blob/master/README.md#1%E5%88%9B%E5%BB%BA%E9%A6%96%E9%A1%B5"><b>1、创建首页</b></a>
 
 *   **[4、添加成员修改函数](#4、添加成员修改函数)**
 
