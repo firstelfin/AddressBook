@@ -14,7 +14,7 @@
     <b><h2>&nbsp;&nbsp;目录</h2></b>
 </p>
 
-*   <a href="#1、创建首页"><b>1、创建首页</b></a>
+*   <a href="https://github.com/firstelfin/AddressBook/blob/master/README.md#1%E5%88%9B%E5%BB%BA%E9%A6%96%E9%A1%B5"><b>1、创建首页</b></a>
 
 *   **[2、创建person结构体、address结构体](#2、创建person结构体、address结构体)**
 
